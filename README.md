@@ -1,5 +1,3 @@
-# Uber-Dynamic-Pricing-Engine
-
 # Uber Dynamic Pricing Engine
 
 A complete end-to-end machine learning system that predicts and adjusts ride prices in real-time using XGBoost + Reinforcement Learning (PPO).
